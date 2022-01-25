@@ -1,0 +1,11 @@
+Hak Akses ADMIN:
+username : admin
+password : 1
+
+Hak Akses Penjualan:
+username : andika
+password : andika
+
+Hak Akses Inventory:
+username : rere
+password : 123

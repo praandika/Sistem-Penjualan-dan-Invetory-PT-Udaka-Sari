@@ -1,0 +1,377 @@
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\bin\Debug\ProgramUdaka.exe
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\bin\Debug\ProgramUdaka.pdb
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\bin\Debug\ProgramUdaka.xml
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Login.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Resources.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.vbproj.GenerateResource.Cache
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.exe
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.xml
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.pdb
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuUtama.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarang.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPelanggan.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPenjualan.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangMasuk.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataSupplier.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Penjualan.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.KelolaAdmin.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Laporan.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahAdmin.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahBarang.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahPelanggan.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahSupplier.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahAdmin.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahBarang.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahPelanggan.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahSupplier.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UpdatePenjualan.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\bin\Debug\ProgramUdaka.exe.config
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanStokMinimal.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormNota.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPenjualan.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPenjualanDetail.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangMasukDetail.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataStokOpname.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuRetur.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Pembelian.resources
+F:\A Program Udaka\ProgramUdaka\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Status.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\bin\Debug\ProgramUdaka.exe.config
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.exe
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.xml
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.pdb
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\bin\Debug\ProgramUdaka.exe
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\bin\Debug\ProgramUdaka.pdb
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\bin\Debug\ProgramUdaka.xml
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarang.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangMasuk.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangMasukDetail.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPelanggan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPenjualan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPenjualanDetail.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataStokOpname.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataSupplier.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.KelolaAdmin.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Login.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuRetur.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuUtama.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Resources.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Pembelian.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Penjualan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahAdmin.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahBarang.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahPelanggan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahSupplier.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahAdmin.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahBarang.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahPelanggan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahSupplier.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.vbproj.GenerateResource.Cache
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Stats.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.vbprojResolveAssemblyReference.cache
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPembelian.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPembelianDetail.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.BarangMasuk.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Konfirmasi.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariSupplierPembelian.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangPembelian.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariPelangganPenjualan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangPenjualan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariNotaPembelian.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuCatatanPembayaran.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangStokOpname.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahStokOpname.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahStokOpname.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CatatTerimaPembayaran.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarReturPenjualan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.ReturPenjualan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarReturPembelian.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.ReturPembelian.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataReturPenjualan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataReturPembelian.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CatatKirimPembayaran.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataTerimaPembayaran.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangDetail.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Profile.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahPassword.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahProfile.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPendapatan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuBarangMasuk.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Konfirmasi2.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MsgBoxBerhasil.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MsgBoxWarning.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Notifikasi.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarStokMinimal.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPenjualan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangMasukDetail.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangMasuk.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarang.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPembelian.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPembelianDetail.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPenjualanDetail.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanStokOpname.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormPurchaseOrder.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormNota.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPendapatan.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarJatuhTempo.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.NotifikasiJatuhTempo.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormReturPembelian.resources
+F:\A Program Udaka\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormReturPenjualan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\bin\Debug\ProgramUdaka.exe.config
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.exe
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.xml
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.pdb
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.vbprojResolveAssemblyReference.cache
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.BarangMasuk.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangPembelian.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangPenjualan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangStokOpname.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariNotaPembelian.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariPelangganPenjualan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariSupplierPembelian.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CatatKirimPembayaran.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CatatTerimaPembayaran.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarJatuhTempo.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarReturPembelian.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarReturPenjualan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarStokMinimal.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarang.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangDetail.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangMasuk.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangMasukDetail.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPelanggan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPembelian.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPembelianDetail.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPendapatan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPenjualan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPenjualanDetail.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataReturPembelian.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataReturPenjualan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataStokOpname.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataSupplier.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataTerimaPembayaran.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarang.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangMasuk.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangMasukDetail.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPembelian.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPembelianDetail.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPendapatan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPenjualan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPenjualanDetail.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanStokOpname.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormNota.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormPurchaseOrder.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormReturPembelian.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormReturPenjualan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.KelolaAdmin.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Konfirmasi.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Konfirmasi2.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Login.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuBarangMasuk.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuCatatanPembayaran.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuRetur.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuUtama.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MsgBoxBerhasil.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MsgBoxWarning.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Resources.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Notifikasi.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.NotifikasiJatuhTempo.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Pembelian.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Penjualan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Profile.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.ReturPembelian.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.ReturPenjualan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Stats.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahAdmin.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahBarang.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahPelanggan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahStokOpname.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahSupplier.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahAdmin.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahBarang.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahPassword.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahPelanggan.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahProfile.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahStokOpname.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahSupplier.resources
+D:\Program\ProgramUdakaSari\ProgramUdaka\obj\x86\Debug\ProgramUdaka.vbproj.GenerateResource.Cache
+D:\Program\ProgramUdakaSari\ProgramUdaka\bin\Debug\ProgramUdaka.exe
+D:\Program\ProgramUdakaSari\ProgramUdaka\bin\Debug\ProgramUdaka.pdb
+D:\Program\ProgramUdakaSari\ProgramUdaka\bin\Debug\ProgramUdaka.xml
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\bin\Debug\ProgramUdaka.exe.config
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.exe
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.xml
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.pdb
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.vbprojResolveAssemblyReference.cache
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.BarangMasuk.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangPembelian.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangPenjualan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangStokOpname.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariNotaPembelian.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariPelangganPenjualan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariSupplierPembelian.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CatatKirimPembayaran.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CatatTerimaPembayaran.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarJatuhTempo.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarReturPembelian.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarReturPenjualan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarStokMinimal.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarang.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangDetail.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangMasuk.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangMasukDetail.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPelanggan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPembelian.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPembelianDetail.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPendapatan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPenjualan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPenjualanDetail.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataReturPembelian.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataReturPenjualan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataStokOpname.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataSupplier.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataTerimaPembayaran.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarang.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangMasuk.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangMasukDetail.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPembelian.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPembelianDetail.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPendapatan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPenjualan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPenjualanDetail.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanStokOpname.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormNota.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormPurchaseOrder.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormReturPembelian.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormReturPenjualan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.KelolaAdmin.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Konfirmasi.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Konfirmasi2.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Login.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuBarangMasuk.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuCatatanPembayaran.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuRetur.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuUtama.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MsgBoxBerhasil.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MsgBoxWarning.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Resources.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Notifikasi.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.NotifikasiJatuhTempo.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Pembelian.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Penjualan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Profile.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.ReturPembelian.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.ReturPenjualan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Stats.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahAdmin.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahBarang.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahPelanggan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahStokOpname.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahSupplier.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahAdmin.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahBarang.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahPassword.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahPelanggan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahProfile.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahStokOpname.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahSupplier.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.vbproj.GenerateResource.Cache
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\bin\Debug\ProgramUdaka.exe
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\bin\Debug\ProgramUdaka.pdb
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\bin\Debug\ProgramUdaka.xml
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.BarangKeluar.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariNotaPenjualan.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangKeluar.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangKeluarDetail.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangKeluar.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangKeluarDetail.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanReturPembelian.resources
+D:\Program\REVISI 2.0 RERE\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanReturPenjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\bin\Debug\ProgramUdaka.exe.config
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.exe
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.xml
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.pdb
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\bin\Debug\ProgramUdaka.exe
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\bin\Debug\ProgramUdaka.pdb
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\bin\Debug\ProgramUdaka.xml
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.vbprojResolveAssemblyReference.cache
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.BarangKeluar.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.BarangMasuk.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangPembelian.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangPenjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariBarangStokOpname.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariNotaPembelian.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariNotaPenjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariPelangganPenjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CariSupplierPembelian.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CatatKirimPembayaran.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.CatatTerimaPembayaran.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarJatuhTempo.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarReturPembelian.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarReturPenjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DaftarStokMinimal.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarang.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangDetail.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangKeluar.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangKeluarDetail.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangMasuk.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataBarangMasukDetail.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPelanggan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPembelian.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPembelianDetail.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPendapatan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPenjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataPenjualanDetail.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataReturPembelian.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataReturPenjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataStokOpname.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataSupplier.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.DataTerimaPembayaran.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarang.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangKeluar.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangKeluarDetail.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangMasuk.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanBarangMasukDetail.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPembelian.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPembelianDetail.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPendapatan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPenjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanPenjualanDetail.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanReturPembelian.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanReturPenjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormLaporanStokOpname.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormNota.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormPurchaseOrder.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormReturPembelian.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.FormReturPenjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.KelolaAdmin.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Konfirmasi.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Konfirmasi2.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Login.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuBarangMasuk.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuCatatanPembayaran.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuRetur.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MenuUtama.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MsgBoxBerhasil.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.MsgBoxWarning.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Resources.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Notifikasi.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.NotifikasiJatuhTempo.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Pembelian.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Penjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Profile.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.ReturPembelian.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.ReturPenjualan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.Stats.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahAdmin.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahBarang.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahPelanggan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahStokOpname.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.TambahSupplier.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahAdmin.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahBarang.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahPassword.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahPelanggan.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahProfile.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahStokOpname.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.UbahSupplier.resources
+D:\TA\15101185_I Wayan Andika Pranayoga\projek\ProgramUdaka\obj\x86\Debug\ProgramUdaka.vbproj.GenerateResource.Cache
